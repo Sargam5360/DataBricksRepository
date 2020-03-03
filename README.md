@@ -22,4 +22,16 @@ DataBricks Readme
 | | Delta Lake Basics Lab |
 | | Managed Delta Lake |
 | | Delta Lake Time Machine and Optimization Lab |
+|__Strucutred Streaming__ | Structured Streaming Concepts |
+| | Time Windows |
+| | Streaming With Kinesis|
+| __Delta Lake Architecture__ | | 
+| __Building Production Workflows__ | |
+| | Scheduling Jobs with UI|
+| | Reading and Writing Data to RedShift|
+| | Serving MLFlow Models via SageMaker|
+| | Glue and Athena|
+| __Capstone__ | |
+
+
 
